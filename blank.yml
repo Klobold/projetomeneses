@@ -13,5 +13,5 @@ jobs:
       run: ola Carapicuíba
     - name: Run a multi-line script
       run:  fórum da vivo
-        echo Add other actions to build,
-        echo test, and deploy your project.
+       
+    - git clone git@github.com:leocomelli/curso-git.git
